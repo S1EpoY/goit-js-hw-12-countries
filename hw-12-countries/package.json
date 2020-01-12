@@ -12,7 +12,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/luxplanjay/webpack-starter-kit.git"
-    "url": "git+https://github.com/a-sapon/goit-js-hw-12-countries.git"
   },
   "keywords": [],
   "author": "Serhii Baryshnikov <slepoy1992@gmail.com>",
